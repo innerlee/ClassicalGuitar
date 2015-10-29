@@ -1,2 +1,1 @@
-# ClassicalGuitar
-classical guitar.
+# Classical Guitar
